@@ -107,11 +107,9 @@ p{
 #imageport{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    padding:50px;
+    padding:10px;
 }
 img{
-    float: left;
-    clear: both;
     overflow: auto;
     padding-right: 10px;
 }
@@ -121,7 +119,7 @@ img{
     float: left
 }
 .box2{
-    float: right;
+    float: left;
     
 
 }
@@ -129,7 +127,7 @@ img{
     float: left;
 }
 .box4{
-    float: right;
+    float: left;
    
 }
 figcaption{
